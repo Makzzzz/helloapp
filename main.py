@@ -9,3 +9,5 @@ def greet_black():
 
 if __name__ == '__main__':
     print_hello('hello everyone')
+    greet_white()
+    greet_black()
